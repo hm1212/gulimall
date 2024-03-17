@@ -1,0 +1,20 @@
+OpenJDK 64-Bit Server VM (25.352-b08) for linux-amd64 JRE (1.8.0_352-b08), built on Oct 21 2022 14:30:59 by "mockbuild" with gcc 4.8.5 20150623 (Red Hat 4.8.5-44)
+Memory: 4k page, physical 13036440k(9731608k free), swap 4194304k(4194304k free)
+CommandLine flags: -XX:GCLogFileSize=104857600 -XX:InitialHeapSize=1073741824 -XX:MaxHeapSize=1073741824 -XX:MaxNewSize=536870912 -XX:NewSize=536870912 -XX:NumberOfGCLogFiles=10 -XX:+PrintGC -XX:+PrintGCDateStamps -XX:+PrintGCDetails -XX:+PrintGCTimeStamps -XX:+UseCompressedClassPointers -XX:+UseCompressedOops -XX:+UseGCLogFileRotation -XX:+UseParallelGC 
+2024-03-17T09:43:50.921+0800: 6.439: [GC (GCLocker Initiated GC) [PSYoungGen: 393216K->6417K(458752K)] 393237K->6526K(983040K), 0.0083146 secs] [Times: user=0.02 sys=0.00, real=0.01 secs] 
+2024-03-17T09:43:51.273+0800: 6.791: [GC (Metadata GC Threshold) [PSYoungGen: 93157K->6366K(458752K)] 93266K->6483K(983040K), 0.0260257 secs] [Times: user=0.01 sys=0.02, real=0.03 secs] 
+2024-03-17T09:43:51.300+0800: 6.818: [Full GC (Metadata GC Threshold) [PSYoungGen: 6366K->0K(458752K)] [ParOldGen: 117K->6278K(524288K)] 6483K->6278K(983040K), [Metaspace: 20388K->20388K(1069056K)], 0.0462985 secs] [Times: user=0.07 sys=0.03, real=0.04 secs] 
+2024-03-17T09:43:53.540+0800: 9.058: [GC (Allocation Failure) [PSYoungGen: 393216K->11264K(458752K)] 399498K->17554K(983040K), 0.0610749 secs] [Times: user=0.12 sys=0.05, real=0.06 secs] 
+2024-03-17T09:43:54.910+0800: 10.428: [GC (Allocation Failure) [PSYoungGen: 404480K->16128K(458752K)] 410770K->22426K(983040K), 0.0248953 secs] [Times: user=0.09 sys=0.04, real=0.02 secs] 
+2024-03-17T09:43:59.160+0800: 14.678: [GC (Allocation Failure) [PSYoungGen: 409344K->16411K(458752K)] 415642K->22718K(983040K), 0.0537477 secs] [Times: user=0.15 sys=0.03, real=0.05 secs] 
+2024-03-17T09:44:00.280+0800: 15.798: [GC (Metadata GC Threshold) [PSYoungGen: 91106K->17360K(500736K)] 97413K->23674K(1025024K), 0.0144849 secs] [Times: user=0.03 sys=0.02, real=0.01 secs] 
+2024-03-17T09:44:00.296+0800: 15.814: [Full GC (Metadata GC Threshold) [PSYoungGen: 17360K->0K(500736K)] [ParOldGen: 6314K->21066K(524288K)] 23674K->21066K(1025024K), [Metaspace: 33896K->33896K(1081344K)], 0.1149156 secs] [Times: user=0.31 sys=0.03, real=0.12 secs] 
+2024-03-17T09:44:07.811+0800: 23.329: [GC (Allocation Failure) [PSYoungGen: 480256K->13892K(502272K)] 501322K->67742K(1026560K), 0.0597882 secs] [Times: user=0.22 sys=0.07, real=0.06 secs] 
+2024-03-17T09:44:08.520+0800: 24.038: [GC (Metadata GC Threshold) [PSYoungGen: 143776K->15017K(502784K)] 197626K->68875K(1027072K), 0.0130674 secs] [Times: user=0.06 sys=0.01, real=0.01 secs] 
+2024-03-17T09:44:08.534+0800: 24.052: [Full GC (Metadata GC Threshold) [PSYoungGen: 15017K->0K(502784K)] [ParOldGen: 53858K->67862K(524288K)] 68875K->67862K(1027072K), [Metaspace: 56050K->56050K(1101824K)], 0.1775567 secs] [Times: user=0.53 sys=0.08, real=0.18 secs] 
+2024-03-17T09:44:10.509+0800: 26.027: [GC (Allocation Failure) [PSYoungGen: 481280K->16528K(498176K)] 549142K->84398K(1022464K), 0.0191232 secs] [Times: user=0.07 sys=0.00, real=0.02 secs] 
+2024-03-17T09:44:33.501+0800: 49.019: [GC (Allocation Failure) [PSYoungGen: 497808K->22512K(489472K)] 565678K->101322K(1013760K), 0.0872187 secs] [Times: user=0.26 sys=0.08, real=0.10 secs] 
+2024-03-17T11:17:48.976+0800: 5644.494: [GC (Allocation Failure) [PSYoungGen: 489456K->28672K(484864K)] 568266K->131209K(1009152K), 0.2473536 secs] [Times: user=1.40 sys=0.00, real=0.25 secs] 
+2024-03-17T12:56:35.299+0800: 11570.817: [GC (Allocation Failure) [PSYoungGen: 484864K->2368K(468992K)] 587401K->135976K(993280K), 0.2087347 secs] [Times: user=1.08 sys=0.00, real=0.21 secs] 
+2024-03-17T14:41:01.825+0800: 17837.343: [GC (Allocation Failure) [PSYoungGen: 442688K->2112K(482304K)] 576296K->135728K(1006592K), 0.1253349 secs] [Times: user=0.72 sys=0.00, real=0.13 secs] 
+2024-03-17T16:23:00.001+0800: 23955.519: [GC (Allocation Failure) [PSYoungGen: 442432K->2624K(482816K)] 576048K->136248K(1007104K), 0.1426123 secs] [Times: user=0.80 sys=0.00, real=0.14 secs] 

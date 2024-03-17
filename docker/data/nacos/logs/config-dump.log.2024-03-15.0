@@ -1,0 +1,18 @@
+2024-03-15 12:06:14,596 INFO [dump-task] add task. groupKey=gulimall-member.properties+DEFAULT_GROUP+4da0387f-d253-436e-ae45-26eb9b91ddd4, taskKey=gulimall-member.properties+DEFAULT_GROUP+4da0387f-d253-436e-ae45-26eb9b91ddd4+false+null
+
+2024-03-15 12:08:31,513 INFO [dump-task] add task. groupKey=gulimall-member.properties+dev+4da0387f-d253-436e-ae45-26eb9b91ddd4, taskKey=gulimall-member.properties+dev+4da0387f-d253-436e-ae45-26eb9b91ddd4+false+null
+
+2024-03-15 12:12:00,021 INFO [dump-task] add task. groupKey=datasource.yml+dev+e88b4b39-a2fd-4166-a087-a05c8fcb1ba4, taskKey=datasource.yml+dev+e88b4b39-a2fd-4166-a087-a05c8fcb1ba4+false+null
+
+2024-03-15 12:12:47,376 INFO [dump-task] add task. groupKey=datasource.yml+dev+e88b4b39-a2fd-4166-a087-a05c8fcb1ba4, taskKey=datasource.yml+dev+e88b4b39-a2fd-4166-a087-a05c8fcb1ba4+false+null
+
+2024-03-15 12:13:13,690 INFO [dump-task] add task. groupKey=mybaties.yml+dev+e88b4b39-a2fd-4166-a087-a05c8fcb1ba4, taskKey=mybaties.yml+dev+e88b4b39-a2fd-4166-a087-a05c8fcb1ba4+false+null
+
+2024-03-15 12:50:26,054 INFO [dump-task] add task. groupKey=gulimall-member.properties+DEFAULT_GROUP+4da0387f-d253-436e-ae45-26eb9b91ddd4, taskKey=gulimall-member.properties+DEFAULT_GROUP+4da0387f-d253-436e-ae45-26eb9b91ddd4+false+null
+
+2024-03-15 12:50:36,060 INFO [dump-task] add task. groupKey=gulimall-member.properties+dev+4da0387f-d253-436e-ae45-26eb9b91ddd4, taskKey=gulimall-member.properties+dev+4da0387f-d253-436e-ae45-26eb9b91ddd4+false+null
+
+2024-03-15 12:54:56,856 INFO [dump-task] add task. groupKey=gulimall-gateway+dev+f14a60a3-fc56-401b-aae9-f305bb6c57e3, taskKey=gulimall-gateway+dev+f14a60a3-fc56-401b-aae9-f305bb6c57e3+false+null
+
+2024-03-15 17:59:54,288 INFO [dump-task] add task. groupKey=gulimall-gateway+dev+f14a60a3-fc56-401b-aae9-f305bb6c57e3, taskKey=gulimall-gateway+dev+f14a60a3-fc56-401b-aae9-f305bb6c57e3+false+null
+

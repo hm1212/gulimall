@@ -1,0 +1,72 @@
+2024-03-15 10:41:18,617 INFO Initializes the Raft protocol, raft-config info : {}
+
+2024-03-15 10:41:18,921 INFO ========= The raft protocol is starting... =========
+
+2024-03-15 10:41:18,957 INFO ========= The raft protocol start finished... =========
+
+2024-03-15 10:41:18,984 INFO create raft group : naming_persistent_service_v2
+
+2024-03-15 10:41:19,805 INFO create raft group : naming_instance_metadata
+
+2024-03-15 10:41:20,027 INFO This Raft event changes : RaftEvent{groupId='naming_persistent_service_v2', leader='2368fb379008:7848', term=1, raftClusterInfo=[2368fb379008:7848]}
+
+2024-03-15 10:41:20,362 INFO create raft group : naming_service_metadata
+
+2024-03-15 10:41:20,386 INFO This Raft event changes : RaftEvent{groupId='naming_instance_metadata', leader='2368fb379008:7848', term=1, raftClusterInfo=[2368fb379008:7848]}
+
+2024-03-15 10:41:20,503 INFO This Raft event changes : RaftEvent{groupId='naming_service_metadata', leader='2368fb379008:7848', term=1, raftClusterInfo=[2368fb379008:7848]}
+
+2024-03-15 10:42:03,920 INFO Initializes the Raft protocol, raft-config info : {}
+
+2024-03-15 10:42:04,071 INFO ========= The raft protocol is starting... =========
+
+2024-03-15 10:42:04,090 INFO ========= The raft protocol start finished... =========
+
+2024-03-15 10:42:04,103 INFO create raft group : naming_persistent_service_v2
+
+2024-03-15 10:42:04,311 INFO This Raft event changes : RaftEvent{groupId='naming_persistent_service_v2', leader='39613d0c69de:7848', term=1, raftClusterInfo=[39613d0c69de:7848]}
+
+2024-03-15 10:42:04,313 INFO create raft group : naming_instance_metadata
+
+2024-03-15 10:42:04,366 INFO This Raft event changes : RaftEvent{groupId='naming_instance_metadata', leader='39613d0c69de:7848', term=1, raftClusterInfo=[39613d0c69de:7848]}
+
+2024-03-15 10:42:04,367 INFO create raft group : naming_service_metadata
+
+2024-03-15 10:42:04,473 INFO This Raft event changes : RaftEvent{groupId='naming_service_metadata', leader='39613d0c69de:7848', term=1, raftClusterInfo=[39613d0c69de:7848]}
+
+2024-03-15 11:20:10,451 INFO Initializes the Raft protocol, raft-config info : {}
+
+2024-03-15 11:20:10,684 INFO ========= The raft protocol is starting... =========
+
+2024-03-15 11:20:10,723 INFO ========= The raft protocol start finished... =========
+
+2024-03-15 11:20:10,748 INFO create raft group : naming_persistent_service_v2
+
+2024-03-15 11:20:11,083 INFO create raft group : naming_instance_metadata
+
+2024-03-15 11:20:11,085 INFO This Raft event changes : RaftEvent{groupId='naming_persistent_service_v2', leader='f5aaf640ecb2:7848', term=1, raftClusterInfo=[f5aaf640ecb2:7848]}
+
+2024-03-15 11:20:11,231 INFO create raft group : naming_service_metadata
+
+2024-03-15 11:20:11,381 INFO This Raft event changes : RaftEvent{groupId='naming_instance_metadata', leader='f5aaf640ecb2:7848', term=1, raftClusterInfo=[f5aaf640ecb2:7848]}
+
+2024-03-15 11:20:11,515 INFO This Raft event changes : RaftEvent{groupId='naming_service_metadata', leader='f5aaf640ecb2:7848', term=1, raftClusterInfo=[f5aaf640ecb2:7848]}
+
+2024-03-15 11:22:44,446 INFO Initializes the Raft protocol, raft-config info : {}
+
+2024-03-15 11:22:44,639 INFO ========= The raft protocol is starting... =========
+
+2024-03-15 11:22:44,664 INFO ========= The raft protocol start finished... =========
+
+2024-03-15 11:22:44,682 INFO create raft group : naming_persistent_service_v2
+
+2024-03-15 11:22:45,031 INFO create raft group : naming_instance_metadata
+
+2024-03-15 11:22:45,034 INFO This Raft event changes : RaftEvent{groupId='naming_persistent_service_v2', leader='dd30b00ecbfa:7848', term=1, raftClusterInfo=[dd30b00ecbfa:7848]}
+
+2024-03-15 11:22:45,125 INFO create raft group : naming_service_metadata
+
+2024-03-15 11:22:45,126 INFO This Raft event changes : RaftEvent{groupId='naming_instance_metadata', leader='dd30b00ecbfa:7848', term=1, raftClusterInfo=[dd30b00ecbfa:7848]}
+
+2024-03-15 11:22:45,242 INFO This Raft event changes : RaftEvent{groupId='naming_service_metadata', leader='dd30b00ecbfa:7848', term=1, raftClusterInfo=[dd30b00ecbfa:7848]}
+

@@ -1,0 +1,4 @@
+2024-03-16 15:02:02,027 INFO [PUSH-SUCC] 48ms, all delay time 650ms for subscriber 192.168.17.1, Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=1}, originalSize=1, DataSize=1
+
+2024-03-16 15:02:20,407 INFO [PUSH-SUCC] 4ms, all delay time 588ms for subscriber 192.168.17.1, Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=1}, originalSize=1, DataSize=1
+

@@ -1,0 +1,26 @@
+2024-03-17 09:44:07,281 INFO [dump-all-ok] datasource.yml+dev, 1710475967355, length=279, md5=cbf00da0710a240ae9fa44bbd495cdfc
+
+2024-03-17 09:44:07,308 INFO [dump-all-ok] mybaties.yml+dev, 1710475993686, length=116, md5=3c8cba7df1687e1fbe635fdfa0352287
+
+2024-03-17 11:41:02,304 INFO [dump-task] add task. groupKey=gulimall-thirdparty.properties+DEFAULT_GROUP+58aaf592-c4e9-4807-aff4-7d90299fee6c, taskKey=gulimall-thirdparty.properties+DEFAULT_GROUP+58aaf592-c4e9-4807-aff4-7d90299fee6c+false+null
+
+2024-03-17 11:41:21,392 INFO [dump-task] add task. groupKey=gulimall-thirdparty.properties+DEFAULT_GROUP+58aaf592-c4e9-4807-aff4-7d90299fee6c, taskKey=gulimall-thirdparty.properties+DEFAULT_GROUP+58aaf592-c4e9-4807-aff4-7d90299fee6c+false+null
+
+2024-03-17 11:42:40,092 INFO [dump-task] add task. groupKey=thirdparty.yml+DEFAULT_GROUP+58aaf592-c4e9-4807-aff4-7d90299fee6c, taskKey=thirdparty.yml+DEFAULT_GROUP+58aaf592-c4e9-4807-aff4-7d90299fee6c+false+null
+
+2024-03-17 11:48:42,320 INFO [dump-task] add task. groupKey=gulimall-thirdparty+DEFAULT_GROUP+58aaf592-c4e9-4807-aff4-7d90299fee6c, taskKey=gulimall-thirdparty+DEFAULT_GROUP+58aaf592-c4e9-4807-aff4-7d90299fee6c+false+null
+
+2024-03-17 11:48:45,461 INFO [dump-task] add task. groupKey=thirdparty.yml+DEFAULT_GROUP+58aaf592-c4e9-4807-aff4-7d90299fee6c, taskKey=thirdparty.yml+DEFAULT_GROUP+58aaf592-c4e9-4807-aff4-7d90299fee6c+false+null
+
+2024-03-17 11:49:10,368 INFO [dump-task] add task. groupKey=gulimall-thirdparty.yml+DEFAULT_GROUP+58aaf592-c4e9-4807-aff4-7d90299fee6c, taskKey=gulimall-thirdparty.yml+DEFAULT_GROUP+58aaf592-c4e9-4807-aff4-7d90299fee6c+false+null
+
+2024-03-17 11:49:13,268 INFO [dump-task] add task. groupKey=gulimall-thirdparty+DEFAULT_GROUP+58aaf592-c4e9-4807-aff4-7d90299fee6c, taskKey=gulimall-thirdparty+DEFAULT_GROUP+58aaf592-c4e9-4807-aff4-7d90299fee6c+false+null
+
+2024-03-17 11:52:26,335 INFO [dump-task] add task. groupKey=gulimall-thirdparty.yml+DEFAULT_GROUP+58aaf592-c4e9-4807-aff4-7d90299fee6c, taskKey=gulimall-thirdparty.yml+DEFAULT_GROUP+58aaf592-c4e9-4807-aff4-7d90299fee6c+false+null
+
+2024-03-17 11:56:16,234 INFO [dump-task] add task. groupKey=gulimall-thirdparty.yaml+DEFAULT_GROUP+58aaf592-c4e9-4807-aff4-7d90299fee6c, taskKey=gulimall-thirdparty.yaml+DEFAULT_GROUP+58aaf592-c4e9-4807-aff4-7d90299fee6c+false+null
+
+2024-03-17 11:56:19,838 INFO [dump-task] add task. groupKey=gulimall-thirdparty.yml+DEFAULT_GROUP+58aaf592-c4e9-4807-aff4-7d90299fee6c, taskKey=gulimall-thirdparty.yml+DEFAULT_GROUP+58aaf592-c4e9-4807-aff4-7d90299fee6c+false+null
+
+2024-03-17 11:58:56,327 INFO [dump-task] add task. groupKey=gulimall-thirdparty+DEFAULT_GROUP+58aaf592-c4e9-4807-aff4-7d90299fee6c, taskKey=gulimall-thirdparty+DEFAULT_GROUP+58aaf592-c4e9-4807-aff4-7d90299fee6c+false+null
+

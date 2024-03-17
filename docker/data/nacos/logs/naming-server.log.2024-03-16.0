@@ -1,0 +1,22 @@
+2024-03-16 14:38:39,617 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.CmdbSelectorContextBuilder) contextType(CMDB) successfully.
+
+2024-03-16 14:38:39,617 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.NoneSelectorContextBuilder) contextType(NONE) successfully.
+
+2024-03-16 14:38:39,621 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.LabelSelector) type(label) contextType(CMDB) successfully.
+
+2024-03-16 14:38:39,621 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.NoneSelector) type(none) contextType(NONE) successfully.
+
+2024-03-16 14:38:40,890 INFO Load instance extension handler []
+
+2024-03-16 14:39:31,072 INFO Client connection 1710571171050_172.18.0.1_36432 connect
+
+2024-03-16 14:39:31,197 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=0}, 1710571171050_172.18.0.1_36432
+
+2024-03-16 14:39:48,912 INFO Client connection 1710571188892_172.18.0.1_36438 connect
+
+2024-03-16 14:39:49,027 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=0}, 1710571188892_172.18.0.1_36438
+
+2024-03-16 14:39:54,077 INFO Client connection 1710571194066_172.18.0.1_36440 connect
+
+2024-03-16 14:39:54,199 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=0}, 1710571194066_172.18.0.1_36440
+

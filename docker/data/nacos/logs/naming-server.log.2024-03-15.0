@@ -1,0 +1,556 @@
+2024-03-15 10:41:18,564 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.CmdbSelectorContextBuilder) contextType(CMDB) successfully.
+
+2024-03-15 10:41:18,564 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.NoneSelectorContextBuilder) contextType(NONE) successfully.
+
+2024-03-15 10:41:18,565 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.LabelSelector) type(label) contextType(CMDB) successfully.
+
+2024-03-15 10:41:18,565 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.NoneSelector) type(none) contextType(NONE) successfully.
+
+2024-03-15 10:41:20,576 INFO Load instance extension handler []
+
+2024-03-15 10:42:03,871 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.CmdbSelectorContextBuilder) contextType(CMDB) successfully.
+
+2024-03-15 10:42:03,871 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.NoneSelectorContextBuilder) contextType(NONE) successfully.
+
+2024-03-15 10:42:03,872 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.LabelSelector) type(label) contextType(CMDB) successfully.
+
+2024-03-15 10:42:03,872 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.NoneSelector) type(none) contextType(NONE) successfully.
+
+2024-03-15 10:42:04,541 INFO Load instance extension handler []
+
+2024-03-15 11:20:10,335 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.CmdbSelectorContextBuilder) contextType(CMDB) successfully.
+
+2024-03-15 11:20:10,335 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.NoneSelectorContextBuilder) contextType(NONE) successfully.
+
+2024-03-15 11:20:10,336 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.LabelSelector) type(label) contextType(CMDB) successfully.
+
+2024-03-15 11:20:10,336 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.NoneSelector) type(none) contextType(NONE) successfully.
+
+2024-03-15 11:20:11,578 INFO Load instance extension handler []
+
+2024-03-15 11:22:44,393 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.CmdbSelectorContextBuilder) contextType(CMDB) successfully.
+
+2024-03-15 11:22:44,393 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.NoneSelectorContextBuilder) contextType(NONE) successfully.
+
+2024-03-15 11:22:44,394 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.LabelSelector) type(label) contextType(CMDB) successfully.
+
+2024-03-15 11:22:44,394 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.NoneSelector) type(none) contextType(NONE) successfully.
+
+2024-03-15 11:22:45,297 INFO Load instance extension handler []
+
+2024-03-15 11:22:57,045 INFO Client connection 1710472977033_172.18.0.1_42898 connect
+
+2024-03-15 11:22:57,176 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-coupon', ephemeral=true, revision=0}, 1710472977033_172.18.0.1_42898
+
+2024-03-15 11:28:07,282 INFO Client connection 1710472971778_172.18.0.1_42896 disconnect, remove instances and subscribers
+
+2024-03-15 11:28:07,284 INFO Client connection 1710472977033_172.18.0.1_42898 disconnect, remove instances and subscribers
+
+2024-03-15 11:29:15,029 WARN namespace : public, [DEFAULT_GROUP@@gulimall-coupon] services are automatically cleaned
+
+2024-03-15 11:33:15,246 INFO Client connection 1710473595230_172.18.0.1_42930 connect
+
+2024-03-15 11:33:15,365 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-coupon', ephemeral=true, revision=0}, 1710473595230_172.18.0.1_42930
+
+2024-03-15 11:33:28,544 INFO Client connection 1710473608519_172.18.0.1_42934 connect
+
+2024-03-15 11:33:28,844 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-member', ephemeral=true, revision=0}, 1710473608519_172.18.0.1_42934
+
+2024-03-15 11:33:57,748 INFO Client connection 1710473637707_172.18.0.1_42938 connect
+
+2024-03-15 11:33:57,884 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-order', ephemeral=true, revision=0}, 1710473637707_172.18.0.1_42938
+
+2024-03-15 11:34:08,711 INFO Client connection 1710473642949_172.18.0.1_42940 disconnect, remove instances and subscribers
+
+2024-03-15 11:37:00,483 INFO Client connection 1710473820476_172.18.0.1_42944 connect
+
+2024-03-15 11:37:00,611 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-ware', ephemeral=true, revision=0}, 1710473820476_172.18.0.1_42944
+
+2024-03-15 11:37:19,510 INFO Client connection 1710473833448_172.18.0.1_42946 disconnect, remove instances and subscribers
+
+2024-03-15 11:37:48,143 INFO Client connection 1710473868136_172.18.0.1_42958 connect
+
+2024-03-15 11:37:48,262 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=0}, 1710473868136_172.18.0.1_42958
+
+2024-03-15 11:40:33,755 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-member', ephemeral=true, revision=1}, 1710473608519_172.18.0.1_42934
+
+2024-03-15 11:40:33,771 INFO Client connection 1710473608519_172.18.0.1_42934 disconnect, remove instances and subscribers
+
+2024-03-15 11:40:34,274 INFO Client connection 1710473602815_172.18.0.1_42932 disconnect, remove instances and subscribers
+
+2024-03-15 11:40:48,404 INFO Client connection 1710474048388_172.18.0.1_42970 connect
+
+2024-03-15 11:40:48,520 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-member', ephemeral=true, revision=2}, 1710474048388_172.18.0.1_42970
+
+2024-03-15 12:05:06,294 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-coupon', ephemeral=true, revision=1}, 1710473595230_172.18.0.1_42930
+
+2024-03-15 12:05:06,316 INFO Client connection 1710473595230_172.18.0.1_42930 disconnect, remove instances and subscribers
+
+2024-03-15 12:05:06,826 INFO Client connection 1710473589549_172.18.0.1_42928 disconnect, remove instances and subscribers
+
+2024-03-15 12:05:20,793 INFO Client connection 1710475520786_172.18.0.1_43038 connect
+
+2024-03-15 12:05:20,915 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-coupon', ephemeral=true, revision=2}, 1710475520786_172.18.0.1_43038
+
+2024-03-15 12:20:56,734 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-coupon', ephemeral=true, revision=3}, 1710475520786_172.18.0.1_43038
+
+2024-03-15 12:20:56,754 INFO Client connection 1710475520786_172.18.0.1_43038 disconnect, remove instances and subscribers
+
+2024-03-15 12:20:57,260 INFO Client connection 1710475515548_172.18.0.1_43036 disconnect, remove instances and subscribers
+
+2024-03-15 12:21:09,950 INFO Client connection 1710476469944_172.18.0.1_43076 connect
+
+2024-03-15 12:21:10,068 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-coupon', ephemeral=true, revision=4}, 1710476469944_172.18.0.1_43076
+
+2024-03-15 12:46:43,212 INFO Client connection 1710477998682_172.18.0.1_43102 disconnect, remove instances and subscribers
+
+2024-03-15 12:47:20,270 INFO Client connection 1710478035676_172.18.0.1_43104 disconnect, remove instances and subscribers
+
+2024-03-15 12:48:09,745 INFO Client connection 1710478085233_172.18.0.1_43106 disconnect, remove instances and subscribers
+
+2024-03-15 12:48:35,717 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-ware', ephemeral=true, revision=1}, 1710473820476_172.18.0.1_42944
+
+2024-03-15 12:48:35,720 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=1}, 1710473868136_172.18.0.1_42958
+
+2024-03-15 12:48:35,762 INFO Client connection 1710473820476_172.18.0.1_42944 disconnect, remove instances and subscribers
+
+2024-03-15 12:48:35,765 INFO Client connection 1710473868136_172.18.0.1_42958 disconnect, remove instances and subscribers
+
+2024-03-15 12:48:35,863 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-order', ephemeral=true, revision=1}, 1710473637707_172.18.0.1_42938
+
+2024-03-15 12:48:35,906 INFO Client connection 1710473637707_172.18.0.1_42938 disconnect, remove instances and subscribers
+
+2024-03-15 12:48:35,907 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-member', ephemeral=true, revision=3}, 1710474048388_172.18.0.1_42970
+
+2024-03-15 12:48:35,930 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-coupon', ephemeral=true, revision=5}, 1710476469944_172.18.0.1_43076
+
+2024-03-15 12:48:35,949 INFO Client connection 1710474048388_172.18.0.1_42970 disconnect, remove instances and subscribers
+
+2024-03-15 12:48:35,959 INFO Client connection 1710476469944_172.18.0.1_43076 disconnect, remove instances and subscribers
+
+2024-03-15 12:48:36,291 INFO Client connection 1710473815327_172.18.0.1_42942 disconnect, remove instances and subscribers
+
+2024-03-15 12:48:36,291 INFO Client connection 1710473862861_172.18.0.1_42956 disconnect, remove instances and subscribers
+
+2024-03-15 12:48:36,427 INFO Client connection 1710473631359_172.18.0.1_42936 disconnect, remove instances and subscribers
+
+2024-03-15 12:48:36,473 INFO Client connection 1710476464579_172.18.0.1_43074 disconnect, remove instances and subscribers
+
+2024-03-15 12:48:36,475 INFO Client connection 1710474043332_172.18.0.1_42968 disconnect, remove instances and subscribers
+
+2024-03-15 12:49:20,245 INFO Client connection 1710478155754_172.18.0.1_43108 disconnect, remove instances and subscribers
+
+2024-03-15 12:50:15,047 WARN namespace : public, [DEFAULT_GROUP@@gulimall-ware] services are automatically cleaned
+
+2024-03-15 12:50:15,048 WARN namespace : public, [DEFAULT_GROUP@@gulimall-product] services are automatically cleaned
+
+2024-03-15 12:50:15,048 WARN namespace : public, [DEFAULT_GROUP@@gulimall-member] services are automatically cleaned
+
+2024-03-15 12:50:15,048 WARN namespace : public, [DEFAULT_GROUP@@gulimall-order] services are automatically cleaned
+
+2024-03-15 12:50:15,048 WARN namespace : public, [DEFAULT_GROUP@@gulimall-coupon] services are automatically cleaned
+
+2024-03-15 12:51:45,546 INFO Client connection 1710478300919_172.18.0.1_43118 disconnect, remove instances and subscribers
+
+2024-03-15 12:56:55,278 INFO Client connection 1710478610727_172.18.0.1_43132 disconnect, remove instances and subscribers
+
+2024-03-15 13:00:33,752 INFO Client connection 1710478833746_172.18.0.1_43136 connect
+
+2024-03-15 13:00:33,872 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=0}, 1710478833746_172.18.0.1_43136
+
+2024-03-15 13:02:43,868 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=1}, 1710478833746_172.18.0.1_43136
+
+2024-03-15 13:02:43,881 INFO Client connection 1710478833746_172.18.0.1_43136 disconnect, remove instances and subscribers
+
+2024-03-15 13:02:46,448 INFO Client connection 1710478824466_172.18.0.1_43134 disconnect, remove instances and subscribers
+
+2024-03-15 13:03:11,093 INFO Client connection 1710478991086_172.18.0.1_43140 connect
+
+2024-03-15 13:03:11,221 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=2}, 1710478991086_172.18.0.1_43140
+
+2024-03-15 14:47:30,022 INFO Client connection 1710485250016_172.18.0.1_43148 connect
+
+2024-03-15 14:47:30,137 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=0}, 1710485250016_172.18.0.1_43148
+
+2024-03-15 14:58:44,534 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=1}, 1710485250016_172.18.0.1_43148
+
+2024-03-15 14:58:44,554 INFO Client connection 1710485250016_172.18.0.1_43148 disconnect, remove instances and subscribers
+
+2024-03-15 14:58:45,108 INFO Client connection 1710485243874_172.18.0.1_43146 disconnect, remove instances and subscribers
+
+2024-03-15 14:59:02,386 INFO Client connection 1710485942380_172.18.0.1_43152 connect
+
+2024-03-15 14:59:02,509 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=2}, 1710485942380_172.18.0.1_43152
+
+2024-03-15 15:01:34,459 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=3}, 1710485942380_172.18.0.1_43152
+
+2024-03-15 15:01:34,478 INFO Client connection 1710485942380_172.18.0.1_43152 disconnect, remove instances and subscribers
+
+2024-03-15 15:01:34,981 INFO Client connection 1710485936893_172.18.0.1_43150 disconnect, remove instances and subscribers
+
+2024-03-15 15:01:50,210 INFO Client connection 1710486110202_172.18.0.1_43156 connect
+
+2024-03-15 15:01:50,324 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=4}, 1710486110202_172.18.0.1_43156
+
+2024-03-15 16:01:24,547 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=3}, 1710478991086_172.18.0.1_43140
+
+2024-03-15 16:01:24,623 INFO Client connection 1710478991086_172.18.0.1_43140 disconnect, remove instances and subscribers
+
+2024-03-15 16:01:27,250 INFO Client connection 1710478981797_172.18.0.1_43138 disconnect, remove instances and subscribers
+
+2024-03-15 16:01:51,970 INFO Client connection 1710489702027_172.18.0.1_43174 disconnect, remove instances and subscribers
+
+2024-03-15 16:02:21,445 INFO Client connection 1710489732206_172.18.0.1_43184 disconnect, remove instances and subscribers
+
+2024-03-15 16:03:15,086 WARN namespace : public, [DEFAULT_GROUP@@gulimall-gateway] services are automatically cleaned
+
+2024-03-15 16:03:22,020 INFO Client connection 1710489802011_172.18.0.1_43196 connect
+
+2024-03-15 16:03:22,148 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=0}, 1710489802011_172.18.0.1_43196
+
+2024-03-15 16:28:00,497 INFO Client connection 1710491280492_172.18.0.1_43208 connect
+
+2024-03-15 16:28:00,618 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='renrenfast', ephemeral=true, revision=0}, 1710491280492_172.18.0.1_43208
+
+2024-03-15 16:32:43,109 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=1}, 1710489802011_172.18.0.1_43196
+
+2024-03-15 16:32:43,148 INFO Client connection 1710489802011_172.18.0.1_43196 disconnect, remove instances and subscribers
+
+2024-03-15 16:32:45,800 INFO Client connection 1710489792820_172.18.0.1_43194 disconnect, remove instances and subscribers
+
+2024-03-15 16:33:05,052 INFO Client connection 1710491585043_172.18.0.1_43224 connect
+
+2024-03-15 16:33:05,235 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=2}, 1710491585043_172.18.0.1_43224
+
+2024-03-15 16:37:28,134 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='renrenfast', ephemeral=true, revision=1}, 1710491280492_172.18.0.1_43208
+
+2024-03-15 16:37:28,170 INFO Client connection 1710491280492_172.18.0.1_43208 disconnect, remove instances and subscribers
+
+2024-03-15 16:37:28,810 INFO Client connection 1710491270839_172.18.0.1_43206 disconnect, remove instances and subscribers
+
+2024-03-15 16:37:47,488 INFO Client connection 1710491867479_172.18.0.1_43228 connect
+
+2024-03-15 16:37:47,602 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=0}, 1710491867479_172.18.0.1_43228
+
+2024-03-15 16:37:59,235 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=3}, 1710491585043_172.18.0.1_43224
+
+2024-03-15 16:37:59,264 INFO Client connection 1710491585043_172.18.0.1_43224 disconnect, remove instances and subscribers
+
+2024-03-15 16:38:01,865 INFO Client connection 1710491575600_172.18.0.1_43222 disconnect, remove instances and subscribers
+
+2024-03-15 16:38:19,483 INFO Client connection 1710491899473_172.18.0.1_43232 connect
+
+2024-03-15 16:38:19,593 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=4}, 1710491899473_172.18.0.1_43232
+
+2024-03-15 16:40:55,919 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=5}, 1710491899473_172.18.0.1_43232
+
+2024-03-15 16:40:55,935 INFO Client connection 1710491899473_172.18.0.1_43232 disconnect, remove instances and subscribers
+
+2024-03-15 16:40:58,521 INFO Client connection 1710491889971_172.18.0.1_43230 disconnect, remove instances and subscribers
+
+2024-03-15 16:41:15,672 INFO Client connection 1710492075666_172.18.0.1_43244 connect
+
+2024-03-15 16:41:15,793 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=6}, 1710492075666_172.18.0.1_43244
+
+2024-03-15 16:43:29,781 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=7}, 1710492075666_172.18.0.1_43244
+
+2024-03-15 16:43:29,797 INFO Client connection 1710492075666_172.18.0.1_43244 disconnect, remove instances and subscribers
+
+2024-03-15 16:43:32,430 INFO Client connection 1710492066300_172.18.0.1_43242 disconnect, remove instances and subscribers
+
+2024-03-15 16:43:49,394 INFO Client connection 1710492229388_172.18.0.1_43256 connect
+
+2024-03-15 16:43:49,515 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=8}, 1710492229388_172.18.0.1_43256
+
+2024-03-15 16:48:28,033 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=9}, 1710492229388_172.18.0.1_43256
+
+2024-03-15 16:48:28,064 INFO Client connection 1710492229388_172.18.0.1_43256 disconnect, remove instances and subscribers
+
+2024-03-15 16:48:28,534 INFO Client connection 1710492220125_172.18.0.1_43254 disconnect, remove instances and subscribers
+
+2024-03-15 16:48:52,689 INFO Client connection 1710492532683_172.18.0.1_43268 connect
+
+2024-03-15 16:48:52,802 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=10}, 1710492532683_172.18.0.1_43268
+
+2024-03-15 17:02:48,679 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=11}, 1710492532683_172.18.0.1_43268
+
+2024-03-15 17:02:48,847 INFO Client connection 1710492532683_172.18.0.1_43268 disconnect, remove instances and subscribers
+
+2024-03-15 17:02:51,524 INFO Client connection 1710492523236_172.18.0.1_43266 disconnect, remove instances and subscribers
+
+2024-03-15 17:03:17,793 INFO Client connection 1710493397787_172.18.0.1_43274 connect
+
+2024-03-15 17:03:17,960 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=12}, 1710493397787_172.18.0.1_43274
+
+2024-03-15 17:05:06,247 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=13}, 1710493397787_172.18.0.1_43274
+
+2024-03-15 17:05:06,271 INFO Client connection 1710493397787_172.18.0.1_43274 disconnect, remove instances and subscribers
+
+2024-03-15 17:05:08,896 INFO Client connection 1710493387734_172.18.0.1_43272 disconnect, remove instances and subscribers
+
+2024-03-15 17:05:30,274 INFO Client connection 1710493530267_172.18.0.1_43278 connect
+
+2024-03-15 17:05:30,388 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=14}, 1710493530267_172.18.0.1_43278
+
+2024-03-15 17:10:06,140 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=1}, 1710491867479_172.18.0.1_43228
+
+2024-03-15 17:10:06,171 INFO Client connection 1710491867479_172.18.0.1_43228 disconnect, remove instances and subscribers
+
+2024-03-15 17:10:06,774 INFO Client connection 1710491857540_172.18.0.1_43226 disconnect, remove instances and subscribers
+
+2024-03-15 17:10:35,476 INFO Client connection 1710493835469_172.18.0.1_43282 connect
+
+2024-03-15 17:10:35,585 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=2}, 1710493835469_172.18.0.1_43282
+
+2024-03-15 17:17:06,823 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=3}, 1710493835469_172.18.0.1_43282
+
+2024-03-15 17:17:06,840 INFO Client connection 1710493835469_172.18.0.1_43282 disconnect, remove instances and subscribers
+
+2024-03-15 17:17:07,512 INFO Client connection 1710493825270_172.18.0.1_43280 disconnect, remove instances and subscribers
+
+2024-03-15 17:17:29,649 INFO Client connection 1710494249641_172.18.0.1_43286 connect
+
+2024-03-15 17:17:29,767 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=4}, 1710494249641_172.18.0.1_43286
+
+2024-03-15 17:19:49,203 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=5}, 1710494249641_172.18.0.1_43286
+
+2024-03-15 17:19:49,219 INFO Client connection 1710494249641_172.18.0.1_43286 disconnect, remove instances and subscribers
+
+2024-03-15 17:19:49,746 INFO Client connection 1710494240386_172.18.0.1_43284 disconnect, remove instances and subscribers
+
+2024-03-15 17:20:08,598 INFO Client connection 1710494408592_172.18.0.1_43290 connect
+
+2024-03-15 17:20:08,707 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=6}, 1710494408592_172.18.0.1_43290
+
+2024-03-15 17:20:44,730 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=7}, 1710494408592_172.18.0.1_43290
+
+2024-03-15 17:20:44,744 INFO Client connection 1710494408592_172.18.0.1_43290 disconnect, remove instances and subscribers
+
+2024-03-15 17:20:45,264 INFO Client connection 1710494398681_172.18.0.1_43288 disconnect, remove instances and subscribers
+
+2024-03-15 17:20:49,430 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=15}, 1710493530267_172.18.0.1_43278
+
+2024-03-15 17:20:49,467 INFO Client connection 1710493530267_172.18.0.1_43278 disconnect, remove instances and subscribers
+
+2024-03-15 17:20:52,091 INFO Client connection 1710493520516_172.18.0.1_43276 disconnect, remove instances and subscribers
+
+2024-03-15 17:20:55,464 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=5}, 1710486110202_172.18.0.1_43156
+
+2024-03-15 17:20:55,511 INFO Client connection 1710486110202_172.18.0.1_43156 disconnect, remove instances and subscribers
+
+2024-03-15 17:20:56,051 INFO Client connection 1710486104294_172.18.0.1_43154 disconnect, remove instances and subscribers
+
+2024-03-15 17:21:06,347 INFO Client connection 1710494466340_172.18.0.1_43296 connect
+
+2024-03-15 17:21:06,465 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=8}, 1710494466340_172.18.0.1_43296
+
+2024-03-15 17:21:11,601 INFO Client connection 1710494471594_172.18.0.1_43298 connect
+
+2024-03-15 17:21:11,730 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=16}, 1710494471594_172.18.0.1_43298
+
+2024-03-15 17:21:15,330 INFO Client connection 1710494473427_172.18.0.1_43300 disconnect, remove instances and subscribers
+
+2024-03-15 17:22:15,101 WARN namespace : public, [DEFAULT_GROUP@@gulimall-product] services are automatically cleaned
+
+2024-03-15 17:24:30,759 INFO Client connection 1710494670752_172.18.0.1_43304 connect
+
+2024-03-15 17:24:30,878 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=0}, 1710494670752_172.18.0.1_43304
+
+2024-03-15 17:29:58,865 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=1}, 1710494670752_172.18.0.1_43304
+
+2024-03-15 17:29:58,887 INFO Client connection 1710494670752_172.18.0.1_43304 disconnect, remove instances and subscribers
+
+2024-03-15 17:29:59,440 INFO Client connection 1710494664778_172.18.0.1_43302 disconnect, remove instances and subscribers
+
+2024-03-15 17:30:16,477 INFO Client connection 1710495016470_172.18.0.1_43308 connect
+
+2024-03-15 17:30:16,587 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=2}, 1710495016470_172.18.0.1_43308
+
+2024-03-15 17:47:18,960 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=17}, 1710494471594_172.18.0.1_43298
+
+2024-03-15 17:47:19,017 INFO Client connection 1710494471594_172.18.0.1_43298 disconnect, remove instances and subscribers
+
+2024-03-15 17:47:19,559 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=3}, 1710495016470_172.18.0.1_43308
+
+2024-03-15 17:47:19,594 INFO Client connection 1710495016470_172.18.0.1_43308 disconnect, remove instances and subscribers
+
+2024-03-15 17:47:19,677 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=9}, 1710494466340_172.18.0.1_43296
+
+2024-03-15 17:47:19,740 INFO Client connection 1710494466340_172.18.0.1_43296 disconnect, remove instances and subscribers
+
+2024-03-15 17:47:20,130 INFO Client connection 1710495010931_172.18.0.1_43306 disconnect, remove instances and subscribers
+
+2024-03-15 17:47:20,164 INFO Client connection 1710494461133_172.18.0.1_43294 disconnect, remove instances and subscribers
+
+2024-03-15 17:47:20,184 INFO Client connection 1710494454787_172.18.0.1_43292 disconnect, remove instances and subscribers
+
+2024-03-15 17:48:06,527 INFO Client connection 1710496086516_172.18.0.1_43320 connect
+
+2024-03-15 17:48:06,646 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=4}, 1710496086516_172.18.0.1_43320
+
+2024-03-15 17:48:24,019 INFO Client connection 1710496104012_172.18.0.1_43326 connect
+
+2024-03-15 17:48:24,129 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-common', ephemeral=true, revision=0}, 1710496104012_172.18.0.1_43326
+
+2024-03-15 17:48:29,107 INFO Client connection 1710496109102_172.18.0.1_43336 connect
+
+2024-03-15 17:48:29,231 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-common', ephemeral=true, revision=1}, 1710496109102_172.18.0.1_43336
+
+2024-03-15 17:49:15,105 WARN namespace : public, [DEFAULT_GROUP@@gulimall-gateway] services are automatically cleaned
+
+2024-03-15 17:49:15,105 WARN namespace : public, [DEFAULT_GROUP@@renren-fast] services are automatically cleaned
+
+2024-03-15 17:49:34,649 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-common', ephemeral=true, revision=4}, 1710496109102_172.18.0.1_43336
+
+2024-03-15 17:49:34,661 INFO Client connection 1710496109102_172.18.0.1_43336 disconnect, remove instances and subscribers
+
+2024-03-15 17:49:37,249 INFO Client connection 1710496098839_172.18.0.1_43324 disconnect, remove instances and subscribers
+
+2024-03-15 17:49:55,482 INFO Client connection 1710496195474_172.18.0.1_43396 connect
+
+2024-03-15 17:49:55,597 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-common', ephemeral=true, revision=5}, 1710496195474_172.18.0.1_43396
+
+2024-03-15 17:51:45,569 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-common', ephemeral=true, revision=8}, 1710496104012_172.18.0.1_43326
+
+2024-03-15 17:51:45,588 INFO Client connection 1710496104012_172.18.0.1_43326 disconnect, remove instances and subscribers
+
+2024-03-15 17:51:46,154 INFO Client connection 1710496093548_172.18.0.1_43322 disconnect, remove instances and subscribers
+
+2024-03-15 17:52:03,151 INFO Client connection 1710496323145_172.18.0.1_43444 connect
+
+2024-03-15 17:52:03,266 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-common', ephemeral=true, revision=9}, 1710496323145_172.18.0.1_43444
+
+2024-03-15 17:53:53,942 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-common', ephemeral=true, revision=10}, 1710496195474_172.18.0.1_43396
+
+2024-03-15 17:53:53,967 INFO Client connection 1710496195474_172.18.0.1_43396 disconnect, remove instances and subscribers
+
+2024-03-15 17:53:56,151 INFO Client connection 1710496186102_172.18.0.1_43394 disconnect, remove instances and subscribers
+
+2024-03-15 17:53:56,538 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=5}, 1710496086516_172.18.0.1_43320
+
+2024-03-15 17:53:56,558 INFO Client connection 1710496086516_172.18.0.1_43320 disconnect, remove instances and subscribers
+
+2024-03-15 17:53:56,582 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-common', ephemeral=true, revision=11}, 1710496323145_172.18.0.1_43444
+
+2024-03-15 17:53:56,597 INFO Client connection 1710496323145_172.18.0.1_43444 disconnect, remove instances and subscribers
+
+2024-03-15 17:53:57,100 INFO Client connection 1710496080159_172.18.0.1_43318 disconnect, remove instances and subscribers
+
+2024-03-15 17:53:57,154 INFO Client connection 1710496314148_172.18.0.1_43442 disconnect, remove instances and subscribers
+
+2024-03-15 17:54:18,230 INFO Client connection 1710496458224_172.18.0.1_43464 connect
+
+2024-03-15 17:54:18,347 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-common', ephemeral=true, revision=12}, 1710496458224_172.18.0.1_43464
+
+2024-03-15 17:54:58,503 INFO Remove expired metadata ExpiredMetadataInfo{service=Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-common', ephemeral=true, revision=13}, metadataId='192.168.17.1:8080:DEFAULT', createTime=Fri Mar 15 17:53:56 CST 2024}
+
+2024-03-15 17:55:15,107 WARN namespace : public, [DEFAULT_GROUP@@gulimall-product] services are automatically cleaned
+
+2024-03-15 17:55:42,014 INFO Client connection 1710496532644_172.18.0.1_43466 disconnect, remove instances and subscribers
+
+2024-03-15 17:55:51,904 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-common', ephemeral=true, revision=13}, 1710496458224_172.18.0.1_43464
+
+2024-03-15 17:55:51,920 INFO Client connection 1710496458224_172.18.0.1_43464 disconnect, remove instances and subscribers
+
+2024-03-15 17:55:51,953 INFO Client connection 1710496448726_172.18.0.1_43462 disconnect, remove instances and subscribers
+
+2024-03-15 17:56:11,346 INFO Client connection 1710496571340_172.18.0.1_43470 connect
+
+2024-03-15 17:56:11,462 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-common', ephemeral=true, revision=14}, 1710496571340_172.18.0.1_43470
+
+2024-03-15 18:12:59,875 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-common', ephemeral=true, revision=15}, 1710496571340_172.18.0.1_43470
+
+2024-03-15 18:12:59,905 INFO Client connection 1710496571340_172.18.0.1_43470 disconnect, remove instances and subscribers
+
+2024-03-15 18:13:01,128 INFO Client connection 1710496562126_172.18.0.1_43468 disconnect, remove instances and subscribers
+
+2024-03-15 18:13:20,931 INFO Client connection 1710497600925_172.18.0.1_43500 connect
+
+2024-03-15 18:14:03,549 INFO Remove expired metadata ExpiredMetadataInfo{service=Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-common', ephemeral=true, revision=16}, metadataId='192.168.17.1:88:DEFAULT', createTime=Fri Mar 15 18:12:59 CST 2024}
+
+2024-03-15 18:14:15,110 WARN namespace : public, [DEFAULT_GROUP@@gulimall-common] services are automatically cleaned
+
+2024-03-15 18:15:23,109 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-common', ephemeral=true, revision=0}, 1710497600925_172.18.0.1_43500
+
+2024-03-15 18:15:24,558 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-common', ephemeral=true, revision=1}, 1710497600925_172.18.0.1_43500
+
+2024-03-15 18:15:24,587 INFO Client connection 1710497600925_172.18.0.1_43500 disconnect, remove instances and subscribers
+
+2024-03-15 18:15:24,682 INFO Client connection 1710497591113_172.18.0.1_43498 disconnect, remove instances and subscribers
+
+2024-03-15 18:16:15,894 INFO Client connection 1710497775888_172.18.0.1_43504 connect
+
+2024-03-15 18:17:15,112 WARN namespace : public, [DEFAULT_GROUP@@gulimall-common] services are automatically cleaned
+
+2024-03-15 18:18:00,246 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-common', ephemeral=true, revision=0}, 1710497775888_172.18.0.1_43504
+
+2024-03-15 18:18:00,333 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-common', ephemeral=true, revision=1}, 1710497775888_172.18.0.1_43504
+
+2024-03-15 18:18:00,348 INFO Client connection 1710497775888_172.18.0.1_43504 disconnect, remove instances and subscribers
+
+2024-03-15 18:18:00,415 INFO Client connection 1710497766335_172.18.0.1_43502 disconnect, remove instances and subscribers
+
+2024-03-15 18:19:15,112 WARN namespace : public, [DEFAULT_GROUP@@gulimall-common] services are automatically cleaned
+
+2024-03-15 18:20:37,332 INFO Client connection 1710498037325_172.18.0.1_43508 connect
+
+2024-03-15 18:20:37,434 INFO Client connection 1710498037325_172.18.0.1_43508 disconnect, remove instances and subscribers
+
+2024-03-15 18:20:37,434 INFO Client connection 1710497890223_172.18.0.1_43506 disconnect, remove instances and subscribers
+
+2024-03-15 18:20:55,170 INFO Client connection 1710498055161_172.18.0.1_43512 connect
+
+2024-03-15 18:20:55,290 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-common', ephemeral=true, revision=0}, 1710498055161_172.18.0.1_43512
+
+2024-03-15 18:43:37,146 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-common', ephemeral=true, revision=1}, 1710498055161_172.18.0.1_43512
+
+2024-03-15 18:43:37,185 INFO Client connection 1710498055161_172.18.0.1_43512 disconnect, remove instances and subscribers
+
+2024-03-15 18:43:39,837 INFO Client connection 1710498046082_172.18.0.1_43510 disconnect, remove instances and subscribers
+
+2024-03-15 18:44:18,938 INFO Client connection 1710499458931_172.18.0.1_43516 connect
+
+2024-03-15 18:44:26,323 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=0}, 1710499458931_172.18.0.1_43516
+
+2024-03-15 18:44:58,167 INFO Client connection 1710499498162_172.18.0.1_43520 connect
+
+2024-03-15 18:44:58,289 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=0}, 1710499498162_172.18.0.1_43520
+
+2024-03-15 18:45:15,167 WARN namespace : public, [DEFAULT_GROUP@@gulimall-common] services are automatically cleaned
+
+2024-03-15 18:45:57,816 INFO Client connection 1710499557806_172.18.0.1_43544 connect
+
+2024-03-15 18:45:57,928 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=0}, 1710499557806_172.18.0.1_43544
+
+2024-03-15 19:52:16,334 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=1}, 1710499498162_172.18.0.1_43520
+
+2024-03-15 19:52:16,385 INFO Client connection 1710499498162_172.18.0.1_43520 disconnect, remove instances and subscribers
+
+2024-03-15 19:52:16,963 INFO Client connection 1710499492256_172.18.0.1_43518 disconnect, remove instances and subscribers
+
+2024-03-15 19:52:37,607 INFO Client connection 1710503557599_172.18.0.1_43556 connect
+
+2024-03-15 19:52:37,725 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=2}, 1710503557599_172.18.0.1_43556
+
+2024-03-15 23:07:05,086 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=3}, 1710503557599_172.18.0.1_43556
+
+2024-03-15 23:07:05,148 INFO Client connection 1710503557599_172.18.0.1_43556 disconnect, remove instances and subscribers
+
+2024-03-15 23:07:05,718 INFO Client connection 1710503551618_172.18.0.1_43554 disconnect, remove instances and subscribers
+
+2024-03-15 23:07:24,409 INFO Client connection 1710515244400_172.18.0.1_43560 connect
+
+2024-03-15 23:07:24,531 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=4}, 1710515244400_172.18.0.1_43560
+
+2024-03-15 23:30:17,974 INFO Client connection 1710499458931_172.18.0.1_43516 disconnect, remove instances and subscribers
+
+2024-03-15 23:30:18,054 INFO Client connection 1710499430688_172.18.0.1_43514 disconnect, remove instances and subscribers
+
+2024-03-15 23:30:18,235 INFO Client connection 1710515238361_172.18.0.1_43558 disconnect, remove instances and subscribers
+
+2024-03-15 23:30:18,241 INFO Client connection 1710515244400_172.18.0.1_43560 disconnect, remove instances and subscribers
+
+2024-03-15 23:30:18,687 INFO Client connection 1710499547648_172.18.0.1_43542 disconnect, remove instances and subscribers
+
+2024-03-15 23:30:18,701 INFO Client connection 1710499557806_172.18.0.1_43544 disconnect, remove instances and subscribers
+

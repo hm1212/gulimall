@@ -1,0 +1,7 @@
+2024-03-16 14:39:24,763|dd30b00ecbfa|gulimall-product|DEFAULT_GROUP|null|null|-1|pull|not-found|-1|192.168.17.1|false
+2024-03-16 14:39:24,816|dd30b00ecbfa|gulimall-product.properties|DEFAULT_GROUP|null|null|-1|pull|not-found|-1|192.168.17.1|false
+2024-03-16 14:39:38,375|dd30b00ecbfa|gulimall-gateway|DEFAULT_GROUP|null|null|-1|pull|not-found|-1|192.168.17.1|false
+2024-03-16 14:39:38,392|dd30b00ecbfa|gulimall-gateway.properties|DEFAULT_GROUP|null|null|-1|pull|not-found|-1|192.168.17.1|false
+2024-03-16 14:39:43,014|dd30b00ecbfa|renren-fast|DEFAULT_GROUP|null|null|-1|pull|not-found|-1|192.168.17.1|false
+2024-03-16 14:39:43,032|dd30b00ecbfa|renren-fast.properties|DEFAULT_GROUP|null|null|-1|pull|not-found|-1|192.168.17.1|false
+2024-03-16 14:39:43,040|dd30b00ecbfa|renren-fast-dev.properties|DEFAULT_GROUP|null|null|-1|pull|not-found|-1|192.168.17.1|false

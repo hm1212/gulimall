@@ -1,0 +1,24 @@
+2024-03-17 10:32:41,296 INFO [PUSH-SUCC] 187ms, all delay time 748ms for subscriber 192.168.17.1, Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=1}, originalSize=1, DataSize=1
+
+2024-03-17 10:32:56,688 INFO [PUSH-SUCC] 4ms, all delay time 596ms for subscriber 192.168.17.1, Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=1}, originalSize=1, DataSize=1
+
+2024-03-17 10:37:07,699 INFO [PUSH-SUCC] 17ms, all delay time 539ms for subscriber 192.168.17.1, Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=1}, originalSize=1, DataSize=1
+
+2024-03-17 10:37:21,816 INFO [PUSH-SUCC] 5ms, all delay time 573ms for subscriber 192.168.17.1, Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=3}, originalSize=1, DataSize=1
+
+2024-03-17 16:13:50,741 INFO [PUSH-SUCC] 76ms, all delay time 598ms for subscriber 192.168.17.1, Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=1}, originalSize=1, DataSize=1
+
+2024-03-17 16:13:51,164 INFO [PUSH-SUCC] 4ms, all delay time 576ms for subscriber 192.168.17.1, Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=3}, originalSize=1, DataSize=1
+
+2024-03-17 16:13:55,472 INFO [PUSH-SUCC] 6ms, all delay time 571ms for subscriber 192.168.17.1, Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-thirdparty', ephemeral=true, revision=7}, originalSize=1, DataSize=1
+
+2024-03-17 16:22:13,909 INFO [PUSH-SUCC] 24ms, all delay time 580ms for subscriber 192.168.17.1, Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-thirdparty', ephemeral=true, revision=9}, originalSize=1, DataSize=1
+
+2024-03-17 16:27:28,714 INFO [PUSH-SUCC] 15ms, all delay time 528ms for subscriber 192.168.17.1, Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=1}, originalSize=1, DataSize=1
+
+2024-03-17 16:27:29,404 INFO [PUSH-SUCC] 4ms, all delay time 510ms for subscriber 192.168.17.1, Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=3}, originalSize=1, DataSize=1
+
+2024-03-17 16:31:31,409 INFO [PUSH-SUCC] 6ms, all delay time 589ms, SLA 589ms, Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-thirdparty', ephemeral=true, revision=10}, originalSize=0, DataSize=0, target=192.168.17.1
+
+2024-03-17 16:31:45,630 INFO [PUSH-SUCC] 8ms, all delay time 522ms, SLA 522ms, Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-thirdparty', ephemeral=true, revision=11}, originalSize=1, DataSize=1, target=192.168.17.1
+

@@ -1,0 +1,7 @@
+alibaba:
+  cloud:
+    accessKey: LTAI5tBr4ruFSk118rPX1N6C
+    secretKey: StYGxqwysLwqXANynXEIxvyztQvDXJ
+    oss:
+      endpoint: oss-cn-chengdu.aliyuncs.com
+      bucket: gulimall-hm01
